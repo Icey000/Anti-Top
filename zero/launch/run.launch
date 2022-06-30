@@ -1,0 +1,5 @@
+<launch>
+	<node pkg= "hkvs_cam" name="hkvs_cam" type="hkvs_cam_node"/>
+	<node pkg= "zero" name="Detector" type="Detector"/>
+	
+</launch>
