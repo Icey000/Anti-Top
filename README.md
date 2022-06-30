@@ -12,3 +12,8 @@ int continue_identify = 0;          //持续识别系数
 
 参考了博客：https://blog.csdn.net/weixin_42754478/article/details/108159529
 
+#前哨站
+前哨站的击打旋转装甲板原理和Anti-Top类似，不过由于前哨站是三个装甲板因此做了小的修改，
+
+位于Anti-Top/zero/include/ArmorDetector/Outpostn.hpp
+
